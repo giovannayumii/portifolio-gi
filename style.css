@@ -371,3 +371,55 @@ header ul li a{
     color: #252525;
 
 }
+
+@media (max-width:1318px){
+
+
+    .profile{
+        width: 365px;
+        transform-origin: top;
+        transform: scaleY(1.18);
+    }
+
+    #home .content h1{
+        font-family: 'Libre Baskerville', sans-serif;
+        letter-spacing: 10px;
+        font-size:1.5rem;
+        line-height: 180px;
+        margin-left: 100px;
+        margin-top: -30px;
+    
+        
+    }
+    #home  .content h2{
+        letter-spacing: 10px;
+        font-size:1.8rem;
+        margin-left: 200px;
+        
+    }
+    /* #home  .content h3{
+        letter-spacing: 10px;
+        font-size:1.5rem;
+        margin-left: 100px;
+        
+    } */
+
+    .container {
+        letter-spacing: 1px;
+        font-size:1.5rem;
+        margin-left: 200px;
+        margin-top: -50px;
+    }
+      
+    #home .retangulo {
+        width: 400px;
+        height: 50px;
+        background-color: #E5E9F5;
+        margin-right: -50px;
+
+    }
+ 
+ 
+
+}
+
